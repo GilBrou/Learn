@@ -28,11 +28,9 @@ Consignes
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_inscription.jpg)
 
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/mobile/inscription1.jpg)
-
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/mobile/inscription2.png)
 
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/mobile/inscription3.jpg)
-
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/mobile/inscription4.jpg)
 
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagram_accueil.jpg)
