@@ -50,7 +50,7 @@ Consignes
 
     .Calendrier : affichage des différents événements/rendez-vous de l’utilisateur.
 
-![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_Agenda.jpg)
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_Agenda.png)
 
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagrams_Agenda.jpg)
 
