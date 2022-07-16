@@ -25,7 +25,7 @@ Consignes
                           - système de récupération de mot de passe oublié.
                           - Un lien vers une page de création de compte.
 
-![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_inscription_1.jpg)
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_inscription.jpg)
 
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagram_accueil.jpg)
 
