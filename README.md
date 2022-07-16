@@ -25,18 +25,18 @@ Consignes
                           - système de récupération de mot de passe oublié.
                           - Un lien vers une page de création de compte.
 
-![Preview](https://raw.githubusercontent.com/GilBrou/Learn/Maquettes/desktop/Desktop_inscription_1)
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_inscription_1.jpg)
 
-![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagram_accueil)
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagram_accueil.jpg)
 
     .Tableau de bord :
                        - Récapitulatif des tâches (to-do list) issu de la page de gestion des tâches.
                        - Liste des événements prochains, issue de la page calendrier.
                        - Compteur de messages non lus.
 
-![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_Tableau_de_bord)
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_Tableau_de_bord.jpg)
 
-![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagram_tableau_de_bord)
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagram_tableau_de_bord.jpg)
 
     .Interface de chat :
                          - Historique des conversations.
@@ -45,20 +45,20 @@ Consignes
                          - Indicateur permettant de visualiser si un message a été lu ou non.
                          - Horodatage des messages
 
-![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_Chat)
-![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagram_chats)
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_Chat.jpg)
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagram_chats.jpg)
 
     .Calendrier : affichage des différents événements/rendez-vous de l’utilisateur.
 
-![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_Agenda)
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_Agenda.jpg)
 
-![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagrams_Agenda)
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagrams_Agenda.jpg)
 
     .Gestion des tâches : création de tâches pour soi-même ou un autre utilisateur.
 
-!![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_Tâches)
+!![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_Tâches.jpg)
 
-![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagram_tâches)
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagram_tâches.jpg)
 
 Environnement de travail :
 
