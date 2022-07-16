@@ -28,8 +28,11 @@ Consignes
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_inscription.jpg)
 
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/mobile/inscription1.jpg)
+
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/mobile/inscription2.png)
+
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/mobile/inscription3.jpg)
+
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/mobile/inscription4.jpg)
 
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagram_accueil.jpg)
@@ -41,6 +44,8 @@ Consignes
 
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_Tableau_de_bord.jpg)
 
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/mobile/Tableau.jpg)
+
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagram_tableau_de_bord.jpg)
 
     .Interface de chat :
@@ -51,17 +56,26 @@ Consignes
                          - Horodatage des messages
 
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_Chat.jpg)
+
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/mobile/Chat1.jpg)
+
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/mobile/Chat2.jpg)
+
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagram_chats.jpg)
 
     .Calendrier : affichage des différents événements/rendez-vous de l’utilisateur.
 
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_Agenda.png)
 
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/mobile/Agenda.jpg)
+
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagrams_Agenda.jpg)
 
     .Gestion des tâches : création de tâches pour soi-même ou un autre utilisateur.
 
 !![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_Tâches.jpg)
+
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/mobile/Tâches.jpg)
 
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagram_tâches.jpg)
 
