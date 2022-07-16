@@ -2,7 +2,7 @@
 
 Projet réalisé dans le cadre de la formation developpeur front-end d'Openclassrooms.
 
-![Preview](https://raw.githubusercontent.com/GilBrou/Learn/logoLearn.webp)
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/logoLearn.webp)
 
 Projet :
 
