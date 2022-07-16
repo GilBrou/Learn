@@ -29,7 +29,6 @@ Consignes
 
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/mobile/inscription1.jpg)
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/mobile/inscription2.png)
-
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/mobile/inscription3.jpg)
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/mobile/inscription4.jpg)
 
@@ -56,7 +55,6 @@ Consignes
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_Chat.jpg)
 
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/mobile/Chat1.jpg)
-
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/mobile/Chat2.jpg)
 
 ![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagram_chats.jpg)
