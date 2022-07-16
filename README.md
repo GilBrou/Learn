@@ -1,49 +1,70 @@
-#cityfoodies
+#Learn@Home
 
 Projet réalisé dans le cadre de la formation developpeur front-end d'Openclassrooms.
 
-Projet :  
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/logoLearn.webp)
 
-    Site répertoriant les menus de restaurants gastronomiques afin que les clients puissent composer leurs repas en amont de leur visite en restaurant. (anciennement ohmyfood, remanié par mes soins en cityfoodies)
-	
+Projet :
+
+    Learn@Home est une association qui met en relation des enfants en difficulté
+    scolaire et des bénévoles, en ligne. Ils ont pour objectif de permettre à tout élève,
+    où qu’il soit, d’accéder à un soutien scolaire à distance.
+
 Objectif:
 
-    Ma mission consistait à réaliser un prototype du site fidèle au cahier des charges en utilisant l’approche mobile-first.
-	
-Consignes techniques:
+    Ma mission consistait à réaliser les maquettes Desktop & Mobile,
+    ainsi que les users stories et les diagrammes d'utilisation
+    d'après le cahier des charges et les croquis fournis par l'entreprise.
 
-    - Intégration de la maquette en Html, Css et Scss sans JavaScript.
-    - Aucun style appliqué en html.
-    - Code exempt d'erreurs au validateur W3C.
-    - Compatibilité avec dernières version Chrome et Firefox.
-    - Approche mobile-first.
-    - Autonomie concernant les styles tablette et desktop ainsi que pour déterminier les breakpoints.
-    - Création de la charte graphique (couleurs, logo, polices & maquettes).
-    
-Consignes interface :
+Consignes
 
-    - Champ de recherche éditable par les utilisateurs.
-    - Cartes des restaurants menant aux pages dédiées.
-    - Footer identique sur toutes les pages & Header comportant le logo (et flèche de retour hors page d’accueil).
-    - Lien « Contact » renvoyant vers adresse mail.
+    .Maquette de chaque page (Desktop & mobile) : connexion, tableau de bord, interface de chat, calendrier, gestion des tâches.
+    .Rédaction des User stories et diagrammes pour chaque page.
 
-Effets graphiques & animations :
+    .Page de connexion :
+                          - système de récupération de mot de passe oublié.
+                          - Un lien vers une page de création de compte.
 
-    - Éclaircissement et ombre portée augmentée au survol des boutons principaux.
-    - Remplissage au survol/clic des icones "j'aime" (coeurs).
-    - Loading spinner Cohérent avec la charte graphique / apparaît 1 à 3s à l’arrivée sur la page d’accueil.
-    - Apparition progressive des plats au chargement des pages menu.
-    - Apparition d’un coche au survol/clic des plats (pour sélection).
-    - Titres des plats et descriptions volumineux rognés et remplacés par des points de suspensions.
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_inscription_1)
+
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagram_accueil)
+
+    .Tableau de bord :
+                       - Récapitulatif des tâches (to-do list) issu de la page de gestion des tâches.
+                       - Liste des événements prochains, issue de la page calendrier.
+                       - Compteur de messages non lus.
+
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_Tableau_de_bord)
+
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagram_tableau_de_bord)
+
+    .Interface de chat :
+                         - Historique des conversations.
+                         - Ajout et suppression de contacts.
+                         - Photo de profil de l’expéditeur à côté de chaque message.
+                         - Indicateur permettant de visualiser si un message a été lu ou non.
+                         - Horodatage des messages
+
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_Chat)
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagram_chats)
+
+    .Calendrier : affichage des différents événements/rendez-vous de l’utilisateur.
+
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_Agenda)
+
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagrams_Agenda)
+
+    .Gestion des tâches : création de tâches pour soi-même ou un autre utilisateur.
+
+!![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Maquettes/desktop/Desktop_Tâches)
+
+![Preview](https://raw.githubusercontent.com/GilBrou/Learn/master/Diagrammes/Diagram_tâches)
 
 Environnement de travail :
 
-	L’éditeur Sublime text.
-	Le terminal GitBash.
-	La plateforme GitHub.
-	Les devtools de Google Chrome. 
-	Le validateur W3C.
-	La plateforme GitHub Pages.
+    Figma
+    Inkscape
+    Krita
+    La plateforme GitHub.
 
-Lien pour consulter le site : https://gilbrou.github.io/cityfoodies/
-# Learn
+Kanban du projet : https://trello.com/b/VsGf4ULf/gillian-brousse-p10-learn-home
